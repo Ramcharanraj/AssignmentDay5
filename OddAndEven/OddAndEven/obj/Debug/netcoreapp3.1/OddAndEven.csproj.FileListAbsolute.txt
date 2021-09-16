@@ -1,0 +1,12 @@
+/Users/ramchandran/Desktop/C#/UC1/OddAndEven/OddAndEven/obj/Debug/netcoreapp3.1/OddAndEven.csproj.AssemblyReference.cache
+/Users/ramchandran/Desktop/C#/UC1/OddAndEven/OddAndEven/obj/Debug/netcoreapp3.1/OddAndEven.AssemblyInfoInputs.cache
+/Users/ramchandran/Desktop/C#/UC1/OddAndEven/OddAndEven/obj/Debug/netcoreapp3.1/OddAndEven.AssemblyInfo.cs
+/Users/ramchandran/Desktop/C#/UC1/OddAndEven/OddAndEven/obj/Debug/netcoreapp3.1/OddAndEven.csproj.CoreCompileInputs.cache
+/Users/ramchandran/Desktop/C#/UC1/OddAndEven/OddAndEven/bin/Debug/netcoreapp3.1/OddAndEven.deps.json
+/Users/ramchandran/Desktop/C#/UC1/OddAndEven/OddAndEven/bin/Debug/netcoreapp3.1/OddAndEven.runtimeconfig.json
+/Users/ramchandran/Desktop/C#/UC1/OddAndEven/OddAndEven/bin/Debug/netcoreapp3.1/OddAndEven.runtimeconfig.dev.json
+/Users/ramchandran/Desktop/C#/UC1/OddAndEven/OddAndEven/bin/Debug/netcoreapp3.1/OddAndEven.dll
+/Users/ramchandran/Desktop/C#/UC1/OddAndEven/OddAndEven/bin/Debug/netcoreapp3.1/OddAndEven.pdb
+/Users/ramchandran/Desktop/C#/UC1/OddAndEven/OddAndEven/obj/Debug/netcoreapp3.1/OddAndEven.dll
+/Users/ramchandran/Desktop/C#/UC1/OddAndEven/OddAndEven/obj/Debug/netcoreapp3.1/OddAndEven.pdb
+/Users/ramchandran/Desktop/C#/UC1/OddAndEven/OddAndEven/obj/Debug/netcoreapp3.1/OddAndEven.genruntimeconfig.cache

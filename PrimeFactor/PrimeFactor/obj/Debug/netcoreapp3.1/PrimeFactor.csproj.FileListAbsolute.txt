@@ -1,0 +1,13 @@
+/Users/ramchandran/Desktop/C#/UC1/PrimeFactor/PrimeFactor/bin/Debug/netcoreapp3.1/PrimeFactor.deps.json
+/Users/ramchandran/Desktop/C#/UC1/PrimeFactor/PrimeFactor/bin/Debug/netcoreapp3.1/PrimeFactor.runtimeconfig.json
+/Users/ramchandran/Desktop/C#/UC1/PrimeFactor/PrimeFactor/bin/Debug/netcoreapp3.1/PrimeFactor.runtimeconfig.dev.json
+/Users/ramchandran/Desktop/C#/UC1/PrimeFactor/PrimeFactor/bin/Debug/netcoreapp3.1/PrimeFactor.dll
+/Users/ramchandran/Desktop/C#/UC1/PrimeFactor/PrimeFactor/bin/Debug/netcoreapp3.1/PrimeFactor.pdb
+/Users/ramchandran/Desktop/C#/UC1/PrimeFactor/PrimeFactor/obj/Debug/netcoreapp3.1/PrimeFactor.csproj.AssemblyReference.cache
+/Users/ramchandran/Desktop/C#/UC1/PrimeFactor/PrimeFactor/obj/Debug/netcoreapp3.1/PrimeFactor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ramchandran/Desktop/C#/UC1/PrimeFactor/PrimeFactor/obj/Debug/netcoreapp3.1/PrimeFactor.AssemblyInfoInputs.cache
+/Users/ramchandran/Desktop/C#/UC1/PrimeFactor/PrimeFactor/obj/Debug/netcoreapp3.1/PrimeFactor.AssemblyInfo.cs
+/Users/ramchandran/Desktop/C#/UC1/PrimeFactor/PrimeFactor/obj/Debug/netcoreapp3.1/PrimeFactor.csproj.CoreCompileInputs.cache
+/Users/ramchandran/Desktop/C#/UC1/PrimeFactor/PrimeFactor/obj/Debug/netcoreapp3.1/PrimeFactor.dll
+/Users/ramchandran/Desktop/C#/UC1/PrimeFactor/PrimeFactor/obj/Debug/netcoreapp3.1/PrimeFactor.pdb
+/Users/ramchandran/Desktop/C#/UC1/PrimeFactor/PrimeFactor/obj/Debug/netcoreapp3.1/PrimeFactor.genruntimeconfig.cache

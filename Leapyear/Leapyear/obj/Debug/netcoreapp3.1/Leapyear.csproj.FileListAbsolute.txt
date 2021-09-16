@@ -1,0 +1,13 @@
+/Users/ramchandran/Desktop/C#/UC1/Leapyear/Leapyear/bin/Debug/netcoreapp3.1/Leapyear.deps.json
+/Users/ramchandran/Desktop/C#/UC1/Leapyear/Leapyear/bin/Debug/netcoreapp3.1/Leapyear.runtimeconfig.json
+/Users/ramchandran/Desktop/C#/UC1/Leapyear/Leapyear/bin/Debug/netcoreapp3.1/Leapyear.runtimeconfig.dev.json
+/Users/ramchandran/Desktop/C#/UC1/Leapyear/Leapyear/bin/Debug/netcoreapp3.1/Leapyear.dll
+/Users/ramchandran/Desktop/C#/UC1/Leapyear/Leapyear/bin/Debug/netcoreapp3.1/Leapyear.pdb
+/Users/ramchandran/Desktop/C#/UC1/Leapyear/Leapyear/obj/Debug/netcoreapp3.1/Leapyear.csproj.AssemblyReference.cache
+/Users/ramchandran/Desktop/C#/UC1/Leapyear/Leapyear/obj/Debug/netcoreapp3.1/Leapyear.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ramchandran/Desktop/C#/UC1/Leapyear/Leapyear/obj/Debug/netcoreapp3.1/Leapyear.AssemblyInfoInputs.cache
+/Users/ramchandran/Desktop/C#/UC1/Leapyear/Leapyear/obj/Debug/netcoreapp3.1/Leapyear.AssemblyInfo.cs
+/Users/ramchandran/Desktop/C#/UC1/Leapyear/Leapyear/obj/Debug/netcoreapp3.1/Leapyear.csproj.CoreCompileInputs.cache
+/Users/ramchandran/Desktop/C#/UC1/Leapyear/Leapyear/obj/Debug/netcoreapp3.1/Leapyear.dll
+/Users/ramchandran/Desktop/C#/UC1/Leapyear/Leapyear/obj/Debug/netcoreapp3.1/Leapyear.pdb
+/Users/ramchandran/Desktop/C#/UC1/Leapyear/Leapyear/obj/Debug/netcoreapp3.1/Leapyear.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/ramchandran/Desktop/C#/UC1/EmpWage/EmpWage/bin/Debug/netcoreapp3.1/EmpWage.deps.json
+/Users/ramchandran/Desktop/C#/UC1/EmpWage/EmpWage/bin/Debug/netcoreapp3.1/EmpWage.runtimeconfig.json
+/Users/ramchandran/Desktop/C#/UC1/EmpWage/EmpWage/bin/Debug/netcoreapp3.1/EmpWage.runtimeconfig.dev.json
+/Users/ramchandran/Desktop/C#/UC1/EmpWage/EmpWage/bin/Debug/netcoreapp3.1/EmpWage.dll
+/Users/ramchandran/Desktop/C#/UC1/EmpWage/EmpWage/bin/Debug/netcoreapp3.1/EmpWage.pdb
+/Users/ramchandran/Desktop/C#/UC1/EmpWage/EmpWage/obj/Debug/netcoreapp3.1/EmpWage.csproj.AssemblyReference.cache
+/Users/ramchandran/Desktop/C#/UC1/EmpWage/EmpWage/obj/Debug/netcoreapp3.1/EmpWage.AssemblyInfoInputs.cache
+/Users/ramchandran/Desktop/C#/UC1/EmpWage/EmpWage/obj/Debug/netcoreapp3.1/EmpWage.AssemblyInfo.cs
+/Users/ramchandran/Desktop/C#/UC1/EmpWage/EmpWage/obj/Debug/netcoreapp3.1/EmpWage.csproj.CoreCompileInputs.cache
+/Users/ramchandran/Desktop/C#/UC1/EmpWage/EmpWage/obj/Debug/netcoreapp3.1/EmpWage.dll
+/Users/ramchandran/Desktop/C#/UC1/EmpWage/EmpWage/obj/Debug/netcoreapp3.1/EmpWage.pdb
+/Users/ramchandran/Desktop/C#/UC1/EmpWage/EmpWage/obj/Debug/netcoreapp3.1/EmpWage.genruntimeconfig.cache

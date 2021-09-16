@@ -1,0 +1,12 @@
+/Users/ramchandran/Desktop/C#/UC1/Swaping/Swaping/bin/Debug/netcoreapp3.1/Swaping.deps.json
+/Users/ramchandran/Desktop/C#/UC1/Swaping/Swaping/bin/Debug/netcoreapp3.1/Swaping.runtimeconfig.json
+/Users/ramchandran/Desktop/C#/UC1/Swaping/Swaping/bin/Debug/netcoreapp3.1/Swaping.runtimeconfig.dev.json
+/Users/ramchandran/Desktop/C#/UC1/Swaping/Swaping/bin/Debug/netcoreapp3.1/Swaping.dll
+/Users/ramchandran/Desktop/C#/UC1/Swaping/Swaping/bin/Debug/netcoreapp3.1/Swaping.pdb
+/Users/ramchandran/Desktop/C#/UC1/Swaping/Swaping/obj/Debug/netcoreapp3.1/Swaping.csproj.AssemblyReference.cache
+/Users/ramchandran/Desktop/C#/UC1/Swaping/Swaping/obj/Debug/netcoreapp3.1/Swaping.AssemblyInfoInputs.cache
+/Users/ramchandran/Desktop/C#/UC1/Swaping/Swaping/obj/Debug/netcoreapp3.1/Swaping.AssemblyInfo.cs
+/Users/ramchandran/Desktop/C#/UC1/Swaping/Swaping/obj/Debug/netcoreapp3.1/Swaping.csproj.CoreCompileInputs.cache
+/Users/ramchandran/Desktop/C#/UC1/Swaping/Swaping/obj/Debug/netcoreapp3.1/Swaping.dll
+/Users/ramchandran/Desktop/C#/UC1/Swaping/Swaping/obj/Debug/netcoreapp3.1/Swaping.pdb
+/Users/ramchandran/Desktop/C#/UC1/Swaping/Swaping/obj/Debug/netcoreapp3.1/Swaping.genruntimeconfig.cache

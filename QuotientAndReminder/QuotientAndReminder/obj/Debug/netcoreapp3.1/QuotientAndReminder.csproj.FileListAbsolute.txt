@@ -1,0 +1,12 @@
+/Users/ramchandran/Desktop/C#/UC1/QuotientAndReminder/QuotientAndReminder/bin/Debug/netcoreapp3.1/QuotientAndReminder.deps.json
+/Users/ramchandran/Desktop/C#/UC1/QuotientAndReminder/QuotientAndReminder/bin/Debug/netcoreapp3.1/QuotientAndReminder.runtimeconfig.json
+/Users/ramchandran/Desktop/C#/UC1/QuotientAndReminder/QuotientAndReminder/bin/Debug/netcoreapp3.1/QuotientAndReminder.runtimeconfig.dev.json
+/Users/ramchandran/Desktop/C#/UC1/QuotientAndReminder/QuotientAndReminder/bin/Debug/netcoreapp3.1/QuotientAndReminder.dll
+/Users/ramchandran/Desktop/C#/UC1/QuotientAndReminder/QuotientAndReminder/bin/Debug/netcoreapp3.1/QuotientAndReminder.pdb
+/Users/ramchandran/Desktop/C#/UC1/QuotientAndReminder/QuotientAndReminder/obj/Debug/netcoreapp3.1/QuotientAndReminder.csproj.AssemblyReference.cache
+/Users/ramchandran/Desktop/C#/UC1/QuotientAndReminder/QuotientAndReminder/obj/Debug/netcoreapp3.1/QuotientAndReminder.AssemblyInfoInputs.cache
+/Users/ramchandran/Desktop/C#/UC1/QuotientAndReminder/QuotientAndReminder/obj/Debug/netcoreapp3.1/QuotientAndReminder.AssemblyInfo.cs
+/Users/ramchandran/Desktop/C#/UC1/QuotientAndReminder/QuotientAndReminder/obj/Debug/netcoreapp3.1/QuotientAndReminder.csproj.CoreCompileInputs.cache
+/Users/ramchandran/Desktop/C#/UC1/QuotientAndReminder/QuotientAndReminder/obj/Debug/netcoreapp3.1/QuotientAndReminder.dll
+/Users/ramchandran/Desktop/C#/UC1/QuotientAndReminder/QuotientAndReminder/obj/Debug/netcoreapp3.1/QuotientAndReminder.pdb
+/Users/ramchandran/Desktop/C#/UC1/QuotientAndReminder/QuotientAndReminder/obj/Debug/netcoreapp3.1/QuotientAndReminder.genruntimeconfig.cache

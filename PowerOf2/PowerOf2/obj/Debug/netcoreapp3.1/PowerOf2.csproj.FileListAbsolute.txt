@@ -1,0 +1,13 @@
+/Users/ramchandran/Desktop/C#/UC1/PowerOf2/PowerOf2/bin/Debug/netcoreapp3.1/PowerOf2.deps.json
+/Users/ramchandran/Desktop/C#/UC1/PowerOf2/PowerOf2/bin/Debug/netcoreapp3.1/PowerOf2.runtimeconfig.json
+/Users/ramchandran/Desktop/C#/UC1/PowerOf2/PowerOf2/bin/Debug/netcoreapp3.1/PowerOf2.runtimeconfig.dev.json
+/Users/ramchandran/Desktop/C#/UC1/PowerOf2/PowerOf2/bin/Debug/netcoreapp3.1/PowerOf2.dll
+/Users/ramchandran/Desktop/C#/UC1/PowerOf2/PowerOf2/bin/Debug/netcoreapp3.1/PowerOf2.pdb
+/Users/ramchandran/Desktop/C#/UC1/PowerOf2/PowerOf2/obj/Debug/netcoreapp3.1/PowerOf2.csproj.AssemblyReference.cache
+/Users/ramchandran/Desktop/C#/UC1/PowerOf2/PowerOf2/obj/Debug/netcoreapp3.1/PowerOf2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ramchandran/Desktop/C#/UC1/PowerOf2/PowerOf2/obj/Debug/netcoreapp3.1/PowerOf2.AssemblyInfoInputs.cache
+/Users/ramchandran/Desktop/C#/UC1/PowerOf2/PowerOf2/obj/Debug/netcoreapp3.1/PowerOf2.AssemblyInfo.cs
+/Users/ramchandran/Desktop/C#/UC1/PowerOf2/PowerOf2/obj/Debug/netcoreapp3.1/PowerOf2.csproj.CoreCompileInputs.cache
+/Users/ramchandran/Desktop/C#/UC1/PowerOf2/PowerOf2/obj/Debug/netcoreapp3.1/PowerOf2.dll
+/Users/ramchandran/Desktop/C#/UC1/PowerOf2/PowerOf2/obj/Debug/netcoreapp3.1/PowerOf2.pdb
+/Users/ramchandran/Desktop/C#/UC1/PowerOf2/PowerOf2/obj/Debug/netcoreapp3.1/PowerOf2.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/ramchandran/Desktop/C#/UC1/FindingVowels/FindingVowels/bin/Debug/netcoreapp3.1/FindingVowels.deps.json
+/Users/ramchandran/Desktop/C#/UC1/FindingVowels/FindingVowels/bin/Debug/netcoreapp3.1/FindingVowels.runtimeconfig.json
+/Users/ramchandran/Desktop/C#/UC1/FindingVowels/FindingVowels/bin/Debug/netcoreapp3.1/FindingVowels.runtimeconfig.dev.json
+/Users/ramchandran/Desktop/C#/UC1/FindingVowels/FindingVowels/bin/Debug/netcoreapp3.1/FindingVowels.dll
+/Users/ramchandran/Desktop/C#/UC1/FindingVowels/FindingVowels/bin/Debug/netcoreapp3.1/FindingVowels.pdb
+/Users/ramchandran/Desktop/C#/UC1/FindingVowels/FindingVowels/obj/Debug/netcoreapp3.1/FindingVowels.csproj.AssemblyReference.cache
+/Users/ramchandran/Desktop/C#/UC1/FindingVowels/FindingVowels/obj/Debug/netcoreapp3.1/FindingVowels.AssemblyInfoInputs.cache
+/Users/ramchandran/Desktop/C#/UC1/FindingVowels/FindingVowels/obj/Debug/netcoreapp3.1/FindingVowels.AssemblyInfo.cs
+/Users/ramchandran/Desktop/C#/UC1/FindingVowels/FindingVowels/obj/Debug/netcoreapp3.1/FindingVowels.csproj.CoreCompileInputs.cache
+/Users/ramchandran/Desktop/C#/UC1/FindingVowels/FindingVowels/obj/Debug/netcoreapp3.1/FindingVowels.dll
+/Users/ramchandran/Desktop/C#/UC1/FindingVowels/FindingVowels/obj/Debug/netcoreapp3.1/FindingVowels.pdb
+/Users/ramchandran/Desktop/C#/UC1/FindingVowels/FindingVowels/obj/Debug/netcoreapp3.1/FindingVowels.genruntimeconfig.cache

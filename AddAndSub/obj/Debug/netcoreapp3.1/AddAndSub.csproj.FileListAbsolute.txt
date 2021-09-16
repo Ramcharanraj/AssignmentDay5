@@ -1,0 +1,12 @@
+/Users/ramchandran/Desktop/C#/AddAndSub/AddAndSub/bin/Debug/netcoreapp3.1/AddAndSub.deps.json
+/Users/ramchandran/Desktop/C#/AddAndSub/AddAndSub/bin/Debug/netcoreapp3.1/AddAndSub.runtimeconfig.json
+/Users/ramchandran/Desktop/C#/AddAndSub/AddAndSub/bin/Debug/netcoreapp3.1/AddAndSub.runtimeconfig.dev.json
+/Users/ramchandran/Desktop/C#/AddAndSub/AddAndSub/bin/Debug/netcoreapp3.1/AddAndSub.dll
+/Users/ramchandran/Desktop/C#/AddAndSub/AddAndSub/bin/Debug/netcoreapp3.1/AddAndSub.pdb
+/Users/ramchandran/Desktop/C#/AddAndSub/AddAndSub/obj/Debug/netcoreapp3.1/AddAndSub.csproj.AssemblyReference.cache
+/Users/ramchandran/Desktop/C#/AddAndSub/AddAndSub/obj/Debug/netcoreapp3.1/AddAndSub.AssemblyInfoInputs.cache
+/Users/ramchandran/Desktop/C#/AddAndSub/AddAndSub/obj/Debug/netcoreapp3.1/AddAndSub.AssemblyInfo.cs
+/Users/ramchandran/Desktop/C#/AddAndSub/AddAndSub/obj/Debug/netcoreapp3.1/AddAndSub.csproj.CoreCompileInputs.cache
+/Users/ramchandran/Desktop/C#/AddAndSub/AddAndSub/obj/Debug/netcoreapp3.1/AddAndSub.dll
+/Users/ramchandran/Desktop/C#/AddAndSub/AddAndSub/obj/Debug/netcoreapp3.1/AddAndSub.pdb
+/Users/ramchandran/Desktop/C#/AddAndSub/AddAndSub/obj/Debug/netcoreapp3.1/AddAndSub.genruntimeconfig.cache
